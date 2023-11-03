@@ -24,4 +24,4 @@ public class A {
 //public        +       +          +                   +                 +
 //protected     +       +          +                   +
 //nomodifiers   +       +          +
-//private       +       
+//private       +
